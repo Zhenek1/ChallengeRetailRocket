@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/assembly" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/bagel" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/core" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/examples" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/flume" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/flume-assembly" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/flume-sink" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/kafka" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/kafka-assembly" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/mqtt" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/mqtt-assembly" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/twitter" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/external/zeromq" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/graphx" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/launcher" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/mllib" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/network/common" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/network/shuffle" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/repl" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/sql/catalyst" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/sql/core" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/sql/hive" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/streaming" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/tools" charset="UTF-8" />
+    <file url="file://D:/Downloads/spark-1.5.2/spark-1.5.2/unsafe" charset="UTF-8" />
+  </component>
+</project>
